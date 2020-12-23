@@ -1,4 +1,5 @@
 # Virtual-Assistant
+Use python version lower than 3.7
 
 Install Jarvis AI python module 
 # pip install JarvisAI
